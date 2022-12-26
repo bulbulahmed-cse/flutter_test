@@ -44,7 +44,7 @@ class ProductsView extends GetView<ProductsController> {
                               Container(
                                 decoration: BoxDecoration(
                                     gradient: LinearGradient(colors: [
-                                  Colors.black.withOpacity(.1),
+                                  Colors.black.withOpacity(.05),
                                   Colors.black.withOpacity(.5),
                                 ], begin: Alignment.topCenter, end: Alignment.bottomCenter)),
                               ),
